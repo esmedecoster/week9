@@ -4,6 +4,6 @@
 
 secondWord = process.argv[2];
 thirdWord = process.argv [3];
-console.log ('Hello ' + secondWord + ' ' +thirdWord);
+console.log ('Bonjour ' + secondWord + ' ' +thirdWord);
 
 console.log (process.argv);
